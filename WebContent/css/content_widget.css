@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+#contentWidgets ul {
+	list-style: none;
+}
+
+#contentWidgets ul li h3 {
+	height: 30px;
+	background: #cee5f3;
+	font-size: 18px;
+	font-weight: normal;
+	padding-left: 5px;
+	line-height: 28px;
+	margin-bottom: 20px;
+}
